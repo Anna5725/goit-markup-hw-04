@@ -272,7 +272,7 @@ margin-bottom: 8px;}
     margin-bottom: 8px;
 }
 .team-container {margin: 32px 16px;
-padding: 32 px 0;
+    height: 104px;
     align-items: center;
     justify-content: center;
     }
@@ -284,14 +284,16 @@ padding: 32 px 0;
     text-align: center;
     color: #434455;
 }
-.social-links-list  {
+.team-container .social-links-list  {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: row;
     gap: 24px;
     height: 40px;
+    width: 232px;
 }
+
 .social-list-link {
     display: flex;
     justify-content: center;
