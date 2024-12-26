@@ -204,7 +204,6 @@ transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);}
 }
 .adv-list-item {
     display: block;
-    width: 264px;
     height: 132px;
     }
 
@@ -228,7 +227,6 @@ margin-bottom: 8px;}
     justify-content: flex-start;
     flex-direction: row;
     gap: 24px;
-    margin-bottom: 120px;
     }
 .adv-list-item {width: calc((100% - 72px)/4)}
 /*Section3*/
