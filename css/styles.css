@@ -202,16 +202,12 @@ transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);}
     text-align: left;
     color: #2e2f42; 
 }
-.adv-list-item .advantages-item-link {
+.adv-list-item {
     display: block;
     width: 264px;
     height: 132px;
-padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 24px;
-    padding-bottom: 24px;}
-.advantages-item-link {
-   }
+    }
+
 .text {
     font-weight: 400;
     font-size: 16px;
@@ -232,6 +228,7 @@ margin-bottom: 8px;}
     justify-content: flex-start;
     flex-direction: row;
     gap: 24px;
+    margin-bottom: 120px;
     }
 .adv-list-item {width: calc((100% - 72px)/4)}
 /*Section3*/
